@@ -9,7 +9,7 @@ The report documents identified vulnerabilities, reproduction steps, screenshots
 
 | File / Folder | Description |
 |---------------|-------------|
-| `Acunetix_Penetration_Test_Report_v2.1.pdf` | PDF version of the penetration test report. Contains findings, sanitized screenshots, PoCs (where safe), and remediation recommendations. |
+| `Acunetix_Penetration_Test_Report.pdf` | PDF version of the penetration test report. Contains findings, sanitized screenshots, PoCs (where safe), and remediation recommendations. |
 
 ---
 
