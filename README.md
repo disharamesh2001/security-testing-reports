@@ -48,7 +48,7 @@ Each finding in the report contains:
 ---
 
 ## How to View
-- Open `Acunetix_Penetration_Test_Report_v2.1.pdf` to read the full report and view screenshots. GitHub supports in-browser PDF preview.
+- Open `Acunetix_Penetration_Test_Report.pdf` to read the full report and view screenshots. GitHub supports in-browser PDF preview.
 
 ---
 
