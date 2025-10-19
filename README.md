@@ -52,8 +52,6 @@ Each finding in the report contains:
 
 ---
 
-## Contact / Attribution
 *Author: Disha Ramesh*  
-If you have questions about the methodology or want a walkthrough of any finding, feel free to contact me via GitHub.
 
 ---
